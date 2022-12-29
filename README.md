@@ -2,7 +2,6 @@
 
 this project contains a resume for the optimization technics course
 
-
 ## What we will see in this project?
 
 In this project we will see the following :
